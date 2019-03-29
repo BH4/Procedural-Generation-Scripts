@@ -1,3 +1,5 @@
 # Procedural-Generation-Scripts
 
-Currently only two simple scrips from when I first learned of procedural generation, but I plan to add more to this project when I have the time to learn more about the subject.
+Currently contains two of the most basic terain generation algorithms and a basic L-system class which I use to generate plants. More will be added in the future.
+
+![Fractal Plant](/images/fractal_plant.PNG)
